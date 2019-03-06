@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Ale's Blog",
-    "description": "Welcome to our new blog, Ale's Blog. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2019-03-06-another-one/",
+    "title": "another one",
+    "description": "A short description of the post.",
     "author": [
       {
         "name": "Nora Jones",
@@ -12,6 +12,39 @@
     "date": "2019-03-06",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-03-06T08:10:16-08:00"
+    "last_modified": "2019-03-06T11:01:45-08:00"
+  },
+  {
+    "path": "posts/2019-03-06-my-new-post/",
+    "title": "my new post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-06",
+    "categories": [],
+    "preview": "posts/2019-03-06-my-new-post/my-new-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2019-03-06T11:17:10-08:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Ale's Blog",
+    "description": "Welcome to our new blog, Ale's Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Alejandra Garcia Isaza",
+        "url": {}
+      }
+    ],
+    "date": "2019-03-06",
+    "categories": [
+      "dataviz",
+      "class"
+    ],
+    "preview": {},
+    "last_modified": "2019-03-06T11:05:45-08:00"
   }
 ]
